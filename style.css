@@ -286,7 +286,9 @@ nav ul{
 .div_4{
 
      width: 600px;
-     background-color: rgb(204, 201, 201);
+     /* background-color: rgb(204, 201, 201); */
+     background-color: rgb(9, 21, 77);
+     color: #fff;
      border-radius: 20px;
      height: auto;
      margin: 50px auto;
@@ -772,14 +774,13 @@ footer p{
      height: 50px;
      width: 200px;
      font-size: 12px;
-     border: 2px solid #fff;
      display: inline-block;
  
  }
  
  .div_4 .inputb{
+     
      height: 50px;
-     border: 2px solid #fff;
      width: 200px;
      font-size: 12px;
  }
@@ -971,14 +972,13 @@ footer p{
 
      height: 50px;
      width: 300px;
-     border: 2px solid #fff;
      display: inline-block;
 
 }
 
 .div_4 .inputb{
+
      height: 50px;
-     border: 2px solid #fff;
      width: 300px;
 }
 
