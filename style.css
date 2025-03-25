@@ -386,7 +386,7 @@ footer a{
      nav li{
 
           display: inline;
-          padding: 8px;
+          padding: 2px;
 
      }
      
@@ -491,7 +491,7 @@ footer a{
      width: 100%;
      height: auto;
      padding: 15px 5px;
-     margin: 10px 50px;
+     margin: 20px ;
 }
 
 .div_3 h1{
@@ -530,7 +530,8 @@ footer a{
 
 .div_4{
 
-     width: 330px;
+     width: 350px;
+     /* margin: 10px; */
      height: auto;
      padding: 5px 0px 5px 0px;
 
