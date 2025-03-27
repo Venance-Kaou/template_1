@@ -257,6 +257,7 @@ nav ul{
      
 }
 
+
 .div_3 h1{
 
      font-style: oblique;
@@ -483,15 +484,15 @@ footer a{
      width:320px;
      height: auto;
      margin: 10px;
-     
+     width: 85%;
 }
 
 .div_3 {
 
-     width: 100%;
+     width: 85%;
      height: auto;
      padding: 15px 5px;
-     margin: 20px ;
+     margin: 20px auto;
 }
 
 .div_3 h1{
