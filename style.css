@@ -420,12 +420,13 @@ footer a:hover {
         grid-template-columns: 1fr;
         gap: 40px;
         text-align: center;
+        padding: 50px 10px 100px 10px;
     }
     
      .hero-content h1{
         font-size: 1.5rem;
      }
-     
+
     .hero-form form {
         flex-direction: column;
         gap: 15px;
